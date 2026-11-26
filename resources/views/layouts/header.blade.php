@@ -63,12 +63,12 @@
                            Home
                           </a>
                           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                              <a class="dropdown-item" href="index.html">Home 1</a>
-                              <a class="dropdown-item" href="index-2.html">Home 2</a>
-                              <a class="dropdown-item" href="index-3.html">Home 3</a>
-                              <a class="dropdown-item" href="index-4.html">Home 4</a>
-                              <a class="dropdown-item" href="index-5.html">Home 5</a>
-                              <a class="dropdown-item" href="index-6.html">Home 6</a>
+                              <a class="dropdown-item" href="/home">Home 1</a>
+                              <a class="dropdown-item" href="/home2">Home 2</a>
+                              <a class="dropdown-item" href="/home3">Home 3</a>
+                              <a class="dropdown-item" href="/home4">Home 4</a>
+                              <a class="dropdown-item" href="/home5">Home 5</a>
+                              <a class="dropdown-item" href="/home6">Home 6</a>
                           </div>
                       </li>
                       <li class="nav-item dropdown">
@@ -76,9 +76,9 @@
                            Blog Posts
                           </a>
                           <div class="dropdown-menu" aria-labelledby="navbarDropdown2">
-                            <a class="dropdown-item" href="standard-fullwidth.html">Standard Fullwidth</a>
-                            <a class="dropdown-item" href="standard-left-sidebar.html">Standard Left Sidebar</a>
-                            <a class="dropdown-item" href="standard-right-sidebar.html">Standard Right Sidebar</a>
+                            <a class="dropdown-item" href="/standard-fullwidth">Standard Fullwidth</a>
+                            <a class="dropdown-item" href="/standard-left-sidebar">Standard Left Sidebar</a>
+                            <a class="dropdown-item" href="/standard-right-sidebar">Standard Right Sidebar</a>
                           </div>
                       </li>
 
